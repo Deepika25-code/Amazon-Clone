@@ -1,5 +1,7 @@
 # Amazon-Clone
 
-This project is a front-end clone of the Amazon homepage, created using pure HTML and CSS. It includes a navigation bar with icons, a featured hero section, multiple product category boxes, and a multi-column footer—all styled to resemble Amazon’s user interface.
+This project is a visually accurate Amazon homepage clone, meticulously built using only HTML and CSS. It mirrors the structure and layout of Amazon’s official website, designed to offer users a similar interface and browsing experience.
 
-It serves as a solid exercise in building responsive layouts with flexbox and organizing reusable styles for real-world web components. Perfect for beginners aiming to practice clean, structured front-end development without relying on JavaScript or frameworks.
+The main objective of this project was to strengthen front-end development skills by recreating one of the world’s most complex e-commerce websites using pure HTML and CSS only, without any JavaScript frameworks or backend integration.
+
+From the sticky navigation bar, search bar, category product sections, to the footer with multiple menus, every part of this project has been carefully coded to match the layout, spacing, color schemes, and alignment of the real Amazon UI.
